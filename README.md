@@ -2,7 +2,7 @@
 Họ Tên|Lớp|Email
 -|-|-
 Trần Thị Hải Vân|10A2 - MClass|kimhava123@gmail.com
-Nguyễn Bá Huy|10A2 - MClass|
+Nguyễn Bá Huy|10A2 - MClass|nguyenbahuy0610@gmail.com
 Huỳnh Nguyễn Huy Hoàng|10A2 - AClass|huynhnguyenhuyhoang01092007@gmail.com
 
 # Thông tin project
