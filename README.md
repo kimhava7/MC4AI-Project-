@@ -13,9 +13,9 @@ Huỳnh Nguyễn Huy Hoàng|10A2 - AClass|huynhnguyenhuyhoang01092007@gmail.com
 
 Chức năng|Người thực hiện|Ngày hoàn thành dự kiến
 -|-|-
-Danh sách học sinh||13/05/23
-Phân tích số lượng học sinh||13/05/23
-Phân tích điểm thi||13/05/23
-Clustering||13/05/23
-Regression||13/05/23
-Classify||13/05/23
+Danh sách học sinh|Nguyễn Bá Huy|13/05/23
+Phân tích số lượng học sinh|Nguyễn Bá Huy|13/05/23
+Phân tích điểm thi|Huỳnh Nguyễn Huy Hoanggf|13/05/23
+Clustering|Huỳnh Nguyễn Huy Hoàng|13/05/23
+Regression|Trần Thị Hải Vân|13/05/23
+Classify|Trần Thị Hải Vân|13/05/23
