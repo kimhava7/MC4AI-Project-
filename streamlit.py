@@ -27,7 +27,7 @@ with tab1:
         room = st.selectbox('Phòng',['Tất cả','A114','A115'])
 
     with col4:
-        times = st.multiselect('Buổi',['Sáng','Chiều','Tất cả'])
+        times = st.multiselect('Buổi',['Sáng','Chiều'])
     
     with st.container():
         st.write('Lớp chuyên')
