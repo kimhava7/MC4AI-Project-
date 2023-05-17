@@ -19,3 +19,6 @@ Phân tích điểm thi|Huỳnh Nguyễn Huy Hoàng|17/05/23
 Clustering|Huỳnh Nguyễn Huy Hoàng|17/05/23
 Regression|Trần Thị Hải Vân|17/05/23
 Classify|Trần Thị Hải Vân|17/05/23
+
+## Clip Demo
+Link Youtube: https://youtu.be/YaYUTPhpPv4
